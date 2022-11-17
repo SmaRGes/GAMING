@@ -1,0 +1,149 @@
+.Россия {
+    color: rgb(4, 56, 152);
+    padding-left: 320px;
+}
+.English {
+    color:rgb(45, 244, 214);
+    padding-left: 320px;
+}
+.Español {
+    color:rgba(255, 217, 0, 0.995);
+    padding-left: 320px;
+}
+.Italiano {
+    color:rgb(164, 71, 241);
+    padding-left: 320px;
+}
+.한국어 {
+    color:rgb(248, 22, 131);
+    padding-left: 320px;
+}
+.Український {
+    color:rgb(228, 108, 226);
+    padding-left: 320px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Indie+Flower&family=Open+Sans:wght@300&family=Raleway:wght@500&family=Roboto:wght@100&family=Trispace:wght@100&display=swap');
+body {
+    font-family: "Raleway", sans-serif;
+    font-size: 15px;
+    line-height: normal;
+    font-weight: normal;
+}
+.Метакритик {
+    background: rgb(0, 186, 254);
+    color: rgb(219, 17, 17);
+    margin: 0; 
+}
+.Метакритик li {
+margin-bottom: 8px;
+border-bottom: 1px solid rgb(0, 117, 10);
+}
+.Моиличныеотценки {
+    background: rgb(0, 186, 254);
+    color: rgb(0, 117, 10);
+    margin: 0;
+}
+.Моиличныеотценки li {
+    margin-bottom: 8px;
+    border-bottom: 1px solid rgb(219, 17, 17);
+}
+
+* {
+
+}
+body {
+    
+}
+.КОНТЕЙНЕР {
+    width: 400px;
+    margin: auto;
+    padding-right: 40px;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+   width: 1000px;
+
+}
+.img {
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+    width: 450px;
+    margin: 40px auto;
+    display: block;
+}
+.a {
+    padding-right: 0px;
+    padding-left: 435px;
+}
+body {
+    background: rgb(0, 217, 255);
+}
+a {
+    color: rgb(9, 0, 81);
+    text-decoration: none;
+    transition: all .2s;
+}
+a:hover {
+    color: aliceblue;
+    font-size: 2rem;
+}
+a:active {
+    color: rgb(0, 21, 255);
+}
+.Сдесь:hover {
+    background: rgb(0, 149, 255);
+}
+.Оценки:hover {
+    background: rgb(0, 149, 255);
+}
+.внимание:hover {
+    background: rgb(0, 149, 255);}
+    .Опрос:hover {
+        background: rgb(0, 149, 255);}
+        .Сдесь {
+            border: none;
+            border-radius: 5px;
+        }
+        .Оценки {
+            border: none;
+            border-radius: 5px;
+        }
+        .внимание {
+            border: none;
+            border-radius: 5px;
+        }
+        .Опрос {
+            border: none;
+            border-radius: 5px;
+        }
+        .кнопка {
+           background: rgb(0, 186, 254);
+            padding: 9px 20px;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+            color: aliceblue;
+        }
+        .кнопка:hover {
+            opacity: 1.0;
+        }
+        .Таблица td {
+            text-align: center;
+            padding-bottom: 8px;
+        }
+        .Таблица td:hover {
+            background: rgb(0, 149, 255);
+        }
+        .Таблица tr:nth-child(odd) {
+            background: rgb(0, 102, 255);}
+        .Таблица tr:nth-child(2), .Таблица tr:nth-child(4) {
+            background: rgb(0, 255, 123);
+        }  
+        @media (max-width: 500px) {
+            .КОНТЕЙНЕР {
+                font-size: 1rem;
+                padding: 10px;
+        text-align: center
+            }
+        }
+      
+    
